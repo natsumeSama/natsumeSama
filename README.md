@@ -109,10 +109,27 @@
 
 <h2 align="center">📊 GitHub at a Glance</h2>
 
+
 <div align="center">
-  <img width="49%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=natsumeSama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" />
-  <img width="38%" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsumeSama&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="./assets/overview.dark.svg" />
+    <img alt="GitHub Statistics"
+      src="./assets/overview.light.svg"
+      width="49%" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="./assets/languages.dark.svg" />
+    <img alt="Programming Languages"
+      src="./assets/languages.light.svg"
+      width="49%" />
+  </picture>
+
 </div>
+
 
 <details>
 <summary>📈 See my contribution activity</summary>
