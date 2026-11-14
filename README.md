@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img width="100%" alt="Yudas — AI Engineering, Machine Learning and Cybersecurity" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,50:312E81,100:0891B2&text=Hi,%20I'm%20Rafik&fontColor=FFFFFF&fontSize=56&fontAlignY=39&desc=AI%20Engineering%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Cybersecurity&descAlignY=61&descSize=17&animation=fadeIn" />
+  <img width="100%" alt="Yudas — AI Engineering, Machine Learning and Cybersecurity" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,50:312E81,100:0891B2&text=Hi,%20I'm%20Yudas&fontColor=FFFFFF&fontSize=56&fontAlignY=39&desc=AI%20Engineering%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Cybersecurity&descAlignY=61&descSize=17&animation=fadeIn" />
 
   <a href="https://git.io/typing-svg">
     <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=850&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Building+AI+systems+that+actually+work.;LLMs+%2B+RAG+%2B+Multimodal+Learning;From+research+to+reliable+engineering.;Always+building.+Always+learning." />
