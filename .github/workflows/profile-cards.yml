@@ -1,0 +1,28 @@
+
+name: Generate profile statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate statistics cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: natsumeSama
+          cards: overview,languages
+          output-dir: assets
+          themes: light,dark
+          palette: purple
+          commit: true
