@@ -122,13 +122,6 @@
 </div>
 </details>
 
-<!--
-  ACTIVATE THE SNAKE ONLY AFTER:
-  1. Adding .github/workflows/snake.yml to this profile repository
-  2. Running the workflow from Actions > Generate contribution snake > Run workflow
-  3. Confirming the workflow created the `output` branch
-  Then remove the HTML comment markers enclosing this picture block.
-
 <h2 align="center">🐍 Watch the Contributions Disappear</h2>
 
 <div align="center">
@@ -138,7 +131,6 @@
     <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/natsumeSama/natsumeSama/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
--->
 
 <div align="center">
   <h3>⚡ Build. Measure. Improve. Repeat.</h3>
