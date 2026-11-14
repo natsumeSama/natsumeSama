@@ -130,15 +130,6 @@
 
 </div>
 
-
-<details>
-<summary>📈 See my contribution activity</summary>
-<br />
-<div align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=natsumeSama&bg_color=0d1117&color=a78bfa&line=22d3ee&point=ffffff&area=true&hide_border=true" />
-</div>
-</details>
-
 <h2 align="center">🐍 Watch the Contributions Disappear</h2>
 
 <div align="center">
